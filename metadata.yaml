@@ -1,0 +1,39 @@
+_repo: A-Crystal-Age_7401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: "A Crystal Age is a utopian novel/ Dystopia written by W. H. Hudson,\
+  \ first published in 1887. The book has been called a \"significant S-F milestone\"\
+  \ and has been noted for its anticipation of the \"modern ecological mysticism\"\
+  \ that would evolve a century later.\nThe book was first issued anonymously in 1887.\
+  \ The second edition of 1906 identified the author by name, and included a preface\
+  \ by Hudson. The third edition of 1916 added a foreword by Clifford Smith.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7401'
+  wikidata: Q4656205
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopian fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: A Crystal Age
+url: http://www.gutenberg.org/ebooks/7401
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Crystal_Age
